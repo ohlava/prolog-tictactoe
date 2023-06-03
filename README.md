@@ -4,8 +4,10 @@ This is a Tic Tac Toe game that you can play with an AI. The game is written in 
 
 How to Use
 
+Open file tictactoe_final.pl using swipl in terminal.
+
 Starting the Game
-To start the game, use the following command:
+To start the actual game, use the following command:
 
 start.
 
